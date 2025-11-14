@@ -1,19 +1,6 @@
-<div align="center">
+# Hi there 👋, I'm Divesh Kshirsagar 
 
-# Hi there, I'm Divesh Kshirsagar 👋
-
-### Building with curiosity, designing with purpose
-
-<p>
-  <em>Student | Full-Stack Developer | System Design Enthusiast</em>
-</p>
-
-<p>
-  <em>📍 Nagpur, India</em>
-</p>
-
-</div>
-
+**Student | Full-Stack Developer | System Design Enthusiast | Nagpur, India**  
 ---
 
 ## 🚀 About Me
@@ -56,7 +43,7 @@ Currently exploring the intersections of backend engineering, system architectur
 
 ## 🎯 Featured Projects
 
-### 🤖 [Binance Bot](https://github.com/Divesh-Kshirsagar/binance-bot)
+### 🤖 [Binance Bot](https://github.com/Divesh-Kshirsagar/divesh-binance-bot)
 Automated trading bot for cryptocurrency markets with real-time data processing and intelligent trading strategies.
 
 ### 🔍 [Search Method Visualization](https://github.com/Divesh-Kshirsagar/SearchMethodVisualizationProject)
@@ -69,45 +56,43 @@ A YouTube-inspired video platform showcasing full-stack development capabilities
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Divesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divesh-Kshirsagar&show_icons=true&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568&icon_color=2D3748)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divesh-Kshirsagar&layout=compact&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568)
+<img src="https://github-readme-stats.vercel.app/api?username=Divesh-Kshirsagar&show_icons=true&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568&icon_color=2D3748&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divesh-Kshirsagar&theme=transparent&hide_border=true&ring=2D3748&fire=2D3748&currStreakLabel=2D3748)
+</td>
+<td width="50%">
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divesh-Kshirsagar&theme=transparent&hide_border=true&ring=2D3748&fire=2D3748&currStreakLabel=2D3748" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divesh-Kshirsagar&layout=compact&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Competitive Programming
 
-<div align="center">
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Divesh-Kshirsagar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/diveshkshirsaga1)
-
-</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divesh-kshirsagar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diveshkshirsagar42@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divesh-Kshirsagar)
 
-</div>
-
 ---
 
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Divesh-Kshirsagar&color=2D3748&style=flat-square)
-
-</div>
