@@ -39,18 +39,6 @@ Currently exploring the intersections of backend engineering, system architectur
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🎯 Featured Projects
-
-### 🤖 [Binance Bot](https://github.com/Divesh-Kshirsagar/divesh-binance-bot)
-Automated trading bot for cryptocurrency markets with real-time data processing and intelligent trading strategies.
-
-### 🔍 [Search Method Visualization](https://github.com/Divesh-Kshirsagar/SearchMethodVisualizationProject)
-Interactive visualization tool for various search algorithms, making complex computer science concepts accessible and understandable.
-
-### 🎥 [VidTube](https://github.com/Divesh-Kshirsagar/VidTube)
-A YouTube-inspired video platform showcasing full-stack development capabilities with modern web technologies.
 
 ---
 
